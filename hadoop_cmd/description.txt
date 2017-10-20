@@ -1,0 +1,1 @@
+In these pictures  the basic hadoop commands are demonstrated -starting the hdfs cluster,making hdfs input directory,transferring files from local file system to hdfs,main command for running mapreduce job along with output .
